@@ -1,2 +1,5 @@
 *.log 
- 
+carpeta
+!development2.log   
+
+
